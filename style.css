@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+
+}
+
+.sport {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+    font-family: cursive;
+
+}
+
+#info {
+    background: linear-gradient(#fc0703 0%, #ebfc03 100%);
+    position: absolute;
+    height: 800px;
+    color: #ffffff;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width:100%;
+    height:100%;
+    z-index: 9;
+
+
+}
